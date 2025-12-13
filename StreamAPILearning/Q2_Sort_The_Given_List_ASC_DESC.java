@@ -23,7 +23,6 @@ public class Q2_Sort_The_Given_List_ASC_DESC {
         System.out.println("Desc Sorted \n"+descSort);
         
         
-
     }
 
 }
