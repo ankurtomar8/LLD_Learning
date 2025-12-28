@@ -2,7 +2,7 @@ package StreamAPILearning;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.stream.*;
 
 public class Q3_Find_Maximum_In_Given_List {
     public static void main(String[] args){
