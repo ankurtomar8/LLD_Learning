@@ -20,10 +20,13 @@ public class Q1_Find_Even_Odd_Numbers_In_List {
         .filter(n -> n % 2 != 0)
         .collect(Collectors.toList());
         System.out.println("odd List \n"+oddList);
-       
-        
 
-
+         List<Integer> squareList = list.stream()
+        .filter(n -> n % 2 == 0)
+        .map(n -> n*n)
+        .collect(Collectors.toList());
+        System.out.println("Sqaured Even List \n"+squareList);
+    
 
     }
 
