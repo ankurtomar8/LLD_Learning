@@ -18,7 +18,6 @@ public class Q4_MaxandMinElement {
             .min(Integer::compare)
             .orElse(null);
             System.out.println(minElement);
-
     }
     
 }

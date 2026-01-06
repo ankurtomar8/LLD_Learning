@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q4_MaxandMinElement",
+            "request": "launch",
+            "mainClass": "JavaFeature_StreamAPI_100.Q4_MaxandMinElement",
+            "projectName": "LLD_Learnings_ddfc9361"
+        },
+        {
+            "type": "java",
             "name": "PrintPerfectSquares",
             "request": "launch",
             "mainClass": "PrintPerfectSquares",
