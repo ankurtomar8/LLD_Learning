@@ -18,7 +18,6 @@ public class Q11_Find_Count_Frequency {
         Map<Integer,Long> frequencyMap = intList.stream()
         .collect(Collectors.groupingBy(n -> n,Collectors.counting())
         );
-
         System.out.println("Frequency of Integers: ");
         frequencyMap.forEach((num, count) -> 
           System.out.println(num + " : " + count + " times"));
