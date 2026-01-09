@@ -1,7 +1,6 @@
 package JavaFeature_StreamAPI_100;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
