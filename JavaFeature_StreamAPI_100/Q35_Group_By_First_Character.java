@@ -18,6 +18,8 @@ public class Q35_Group_By_First_Character {
     .collect(Collectors.groupingBy(word -> word.charAt(0)));
 
     System.out.print("Filtered List is : "+ mapResult );
+    // Output
+    // Filtered List is : {a=[apple, avocado, afruit], b=[blueberry, banana], c=[cherry, chiku], n=[notAFruit]}
     
     }
 }
