@@ -15,6 +15,9 @@ public class Q36_ReduceAndConcatenateString {
         .orElse("");
 
         System.out.println("Reverse and Concatenated "+resultString);
+        // output
+        // Reverse and Concatenated Engineer Software am I ?
+
     }
     
 }
