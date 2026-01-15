@@ -1,2 +1,1 @@
-741
-1
+Filtered List is : {a=[apple, avocado, afruit], b=[blueberry, banana], c=[cherry, chiku], n=[notAFruit]}
