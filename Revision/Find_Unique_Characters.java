@@ -14,9 +14,11 @@ public class Find_Unique_Characters {
         for(Character ch : array){
             if(checkChar.add(ch)){
                 uniqueSet.add(ch);
+             
             }
         }
         System.out.println(uniqueSet);
+        // [a, b, r, c, d, e, f, g]
 
     }
 }
