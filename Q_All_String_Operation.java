@@ -1,5 +1,3 @@
-package JavaFeature_StreamAPI_100;
-
 public class Q_All_String_Operation {
     public static void main(String[] args){
 
