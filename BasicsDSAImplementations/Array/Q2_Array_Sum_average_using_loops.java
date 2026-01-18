@@ -16,7 +16,5 @@ public class Q2_Array_Sum_average_using_loops {
 
          System.out.println("Average is "+newAverage);
 
-
-
     }
 }
