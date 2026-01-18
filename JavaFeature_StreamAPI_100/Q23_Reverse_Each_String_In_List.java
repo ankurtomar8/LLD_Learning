@@ -2,7 +2,6 @@ package JavaFeature_StreamAPI_100;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 public class Q23_Reverse_Each_String_In_List {
