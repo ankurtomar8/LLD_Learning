@@ -10,7 +10,6 @@ public class Q4_Array_Linear_Search {
                 System.out.print("Key Found at index "+i);
                 break; // Key Found at index 9
             }
-        }
-        
+        } 
     }
 }
