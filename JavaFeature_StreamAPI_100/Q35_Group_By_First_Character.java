@@ -3,7 +3,6 @@ package JavaFeature_StreamAPI_100;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 public class Q35_Group_By_First_Character {
