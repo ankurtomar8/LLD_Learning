@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Print2DMatrices",
+            "request": "launch",
+            "mainClass": "Revision.Print2DMatrices",
+            "projectName": "LLD_Learnings_ddfc9361"
+        },
+        {
+            "type": "java",
             "name": "Q_All_String_Operation",
             "request": "launch",
             "mainClass": "Q_All_String_Operation",

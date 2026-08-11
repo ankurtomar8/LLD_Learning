@@ -1,1 +1,4 @@
-Filtered List is : {a=[apple, avocado, afruit], b=[blueberry, banana], c=[cherry, chiku], n=[notAFruit]}
+
+ 2 5
+ 3 6
+ 8 9
