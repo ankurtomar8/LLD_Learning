@@ -19,8 +19,7 @@ public class ConvertDeimalToRoman {
         }
         for(int i = 0; i < value.length ; i++){
             while(num >=value[i]){
-                strBuilder.append(symbols[i]);if (num <= 0 || num > 3999) {
-            throw new IllegalArgumentException("Roman numerals only represent integers between 1 and 3999.");
+                strBuilder.append(symbols[i]);
         }
                  num -= value[i];   
             }
