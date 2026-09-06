@@ -20,7 +20,6 @@ public class ConvertDeimalToRoman {
         for(int i = 0; i < value.length ; i++){
             while(num >=value[i]){
                 strBuilder.append(symbols[i]);
-        }
                  num -= value[i];   
             }
 
