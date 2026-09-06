@@ -10,8 +10,8 @@ public class ConvertDeimalToRoman {
         int num = sc.nextInt();
 
         //mapping
-        String[] symbols = {"L","X","IX","V","IV","I"};
-        int[] value  = {40,10,9,5,4,1};
+        String[] symbols = {"L","XL","X","IX","V","IV","I"};
+        int[] value  = {50,40,10,9,5,4,1};
 
         StringBuilder strBuilder = new StringBuilder();
         if (num <= 0 || num > 50) {
